@@ -142,8 +142,6 @@ For any questions, concerns, or data rights requests related to this Privacy Pol
 **LensDay Privacy**
 Email: privacy@lensday.app
 
-*(Replace with your actual contact details before publishing.)*
-
 ---
 
 *This Privacy Policy was written in plain language to be clear and transparent. If any section is unclear, please reach out — we are happy to explain.*
