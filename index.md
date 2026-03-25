@@ -11,7 +11,6 @@ LensDay ("we", "our", or "us") is an Android mobile application providing AI-pow
 If you have any questions about this Privacy Policy or how we handle your data, please contact us at:
 
 **Email:** privacy@lensday.app
-*(Replace with your actual contact email before publishing.)*
 
 ---
 
